@@ -7,7 +7,7 @@ if getgenv().Team == nil then
 end
 
 local GameLoadGui = Instance.new("Message", workspace)
-GameLoadGui.Text = 'ximp lost mind auto chest'
+GameLoadGui.Text = 'Luxury Hub Auto Chest Free Scripts'
 
 local function SelectTeam()
     local ChooseTeam = game:GetService("Players").LocalPlayer.PlayerGui:FindFirstChild("ChooseTeam", true)
